@@ -1,0 +1,115 @@
+ body
+ {
+ background:black;
+ padding:0;
+ margin:0;
+  }
+ .xx1
+{
+width:300px;
+background-color:#CCCCCC;
+border:none;
+height:400px;
+position:absolute;
+margin-top: 180px;
+margin-left: 500px;
+}
+#booking
+{
+background-color:red;
+
+}
+
+
+ #header
+ {
+ width:1000px;
+ height:100px;
+ background:white;
+ margin-left:auto;
+ margin-right:auto;
+ }
+  #navbar
+ {
+ background:brown;
+ width:1000px;
+ margin-right:auto;
+ margin-top:0px;
+ margin-left:auto;
+ height:50px; 
+ }
+  #main_content
+ {
+ border-right:2px solid gray;
+  background:white;
+ width:599px;
+ margin-right:auto;
+ margin-left:251px;
+ 
+float:left;
+ }
+  #main_content p {PADDING:20px;}
+    #main_content a:link{font-size:22px; font-family:comic sans MS;}
+	  #main_content h2 {padding:15px; color:orange;}
+  
+  
+ #sidebar
+ {
+  background:gray;
+ width:399px;
+ margin-right:251px; 
+ float:right;
+
+ }
+ #searchbox
+ {text-align:center; margin:15px;}
+  #footer
+ {
+ height:50px;
+ width:100%;
+ background:brown;
+ clear:both;
+ }
+ 
+ #logo
+ {
+ float:left;
+ }
+ #banner
+ {
+ float:right;
+ }
+ #ul{
+ }
+ #ul li{
+list-style:none; display:inline;}
+#ul li a:link
+{
+text-decoration:none;
+font-family:comic sans MS;
+margin:9px;
+font-size:18px;
+font:white;
+border-right:1px solid white;
+padding:4px;
+}
+#ul li a:hover
+{
+color:black;
+padding:6px;
+
+text-decoration:underline;
+font-family:comic sans MS;
+margin:9px;
+font-size:18px;
+background:orange;
+}
+#social h2 {font-size:25px; color:orange; font-family:comic sans MS;}
+#social{
+text-align:center; border-bottom:2px solid orange;}
+#social img
+{
+margin:5px; padding:3px;
+width:40px;
+height:40px;
+}
