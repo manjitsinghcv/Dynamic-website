@@ -61,7 +61,7 @@
 							</li>
 							
 								<li class="active">
-								<a href="aboutus.php">About Us</a>
+								<a href="aboutus.php">About Company</a>
 							</li>
 								<li class="active">
 								<a href="contactus.php">Contact us</a>
